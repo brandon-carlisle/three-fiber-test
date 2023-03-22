@@ -1,9 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 #root {
-  min-width: 100%;
+  min-width: 100vw;
   min-height: 100vh;
+  background: #2f2f2f;
 }
 
 #canvas-container {
-  min-width: 100%;
+  width: 100vw;
   height: 100vh;
 }
